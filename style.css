@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    box-sizing: border-box;
+}
+
+#container {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    
+}
