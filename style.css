@@ -5,12 +5,13 @@
 }
 body {
     box-sizing: border-box;
-
     width: 100vw;
     height: 100vh;
+    text-align: center;
+    
 }
 
-#container {
+#landing-page {
     
     display: flex;
     flex-direction: column;
@@ -19,21 +20,16 @@ body {
     height: 100vh;
     background: url(./images/jason-leung-poI7DelFiVA-unsplash.jpg);
     background-size: cover;
-    justify-content: space-between;
-    align-items: center;
     color: white;
 }
 
-#container h2 {
-
+#landing-page h2 {
     height: 85%;
 
 }
 
 .header {
-
-    height: 15%;
-    
+    height: 15%;   
 
 }
 
